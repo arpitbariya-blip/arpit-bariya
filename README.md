@@ -10,7 +10,11 @@ I enjoy building real-world web applications and improving backend logic.
 
 ## Projects
 - Leave Management System (PHP, MySQL,Ajax)
+  Live Demo :- 
 - Labour Management System (PHP, MySQL)
+  Live Demo :- https://labourmgmt.unaux.com/labourmgmt/dashboard
+- Finance Dashboard (PHP,JS MySQL, Ajax)
+  Live Demo :- 
 
 ## Currently Learning
 - Advanced PHP
