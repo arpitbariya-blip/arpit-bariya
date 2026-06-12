@@ -15,7 +15,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on web development projects like **[LabourMgmt](https://github.com/arpitbariya-blip/LabourMgmt)** and **[leave-management-system](https://github.com/arpitbariya-blip/leave-management-system)**.
 - 🌱 I’m currently exploring advanced **PHP architectures** and modern **JavaScript frameworks**.
 - 💡 Passionate about creating efficient databases and seamless user experiences.
 - 💬 Ask me about **PHP, MySQL, JavaScript, and Web Development**.
@@ -27,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,react,bootstrap,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,ajax,js,html,css,bootstrap,git,github,vscode" alt="Skills" />
   </a>
 </p>
 
