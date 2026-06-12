@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/arpitbariya-blip">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+MySQL+Enthusiast;Building+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Web+Developer;PHP+%26+MySQL+Enthusiast;Building+Web+Applications" alt="Typing SVG" />
   </a>
 </div>
 
