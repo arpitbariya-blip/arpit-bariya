@@ -18,7 +18,7 @@
 - 🌱 I’m currently exploring advanced **PHP architectures** and modern **JavaScript frameworks**.
 - 💡 Passionate about creating efficient databases and seamless user experiences.
 - 💬 Ask me about **PHP, MySQL, JavaScript, and Web Development**.
-- 📫 How to reach me: _[Your LinkedIn URL or Email Here]_
+- 📫 How to reach me: _[bariyabariyaarpitk@gmail.com]_
 
 ---
 
@@ -26,24 +26,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,ajax,js,html,css,bootstrap,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,git,github,vscode" alt="Skills" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitbariya-blip&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbariya-blip&theme=radium&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbariya-blip&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
 
 ---
 
